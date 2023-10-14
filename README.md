@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Rahma, [rah.or.id](https://rah.or.id).
+* Bilah, [bilah.or.id](https://bilah.or.id)
